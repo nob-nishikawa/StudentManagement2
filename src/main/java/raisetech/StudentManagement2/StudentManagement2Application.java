@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class StudentManagement2Application {
 
   private String studentName = "山田";
-  private String age = "18";
+  private String age = "20";
   //  private Map<String, String> studentInformation = Map.of("田中", "20");
   private final Map<String, String> studentInfomation = new HashMap<>();
 
